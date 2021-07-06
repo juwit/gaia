@@ -36,7 +36,7 @@
     "@vue/eslint-config-airbnb": "^5.3.0",
     "babel-eslint": "^10.1.0",
     "eslint": "^7.16.0",
-    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-import": "^2.23.4",
     "eslint-plugin-vue": "^6.2.2",
     "vue-template-compiler": "^2.6.14",
     "copy-webpack-plugin": "^6.1.0"
